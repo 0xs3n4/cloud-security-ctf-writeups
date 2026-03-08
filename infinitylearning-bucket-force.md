@@ -105,7 +105,7 @@ That was already a very strong indicator of brute forcing or wordlist-driven pro
 
 But the challenge expected it in a slightly different representation, where it appeared wrapped with square brackets:
 
-`[Wfuzz/3.1.0]`
+`censored`
 
 That small detail was funny and slightly annoying at the same time.
 
