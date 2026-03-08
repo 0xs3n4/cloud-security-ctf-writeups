@@ -99,7 +99,7 @@ you know the service, but not every log record is equally useful.
 ### 2. Finding the user agent... but not exactly the way the challenge expected
 At one point I found the user agent value:
 
-`Wfuzz/3.1.0`
+`censored`
 
 That was already a very strong indicator of brute forcing or wordlist-driven probing.
 
@@ -158,4 +158,3 @@ Not because I had invented a clever detection query, but because I finally stopp
 
 ---
 ```text
-[Wfuzz/3.1.0]
